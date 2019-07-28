@@ -7,5 +7,7 @@ namespace RecipesApi
 {
     public class Class1
     {
+        public int MyType { get; set; }
+
     }
 }
