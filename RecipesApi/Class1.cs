@@ -10,6 +10,8 @@ namespace RecipesApi
         public int MyType { get; set; }
         public string MyString { get; set; }
 
-        public int MyInt { get; set; }      
+        public int MyNewInt { get; set; }
+
+        public bool Boll { get; set; }
     }
 }
