@@ -8,6 +8,8 @@ namespace RecipesApi
     public class Class1
     {
         public int MyType { get; set; }
+        public string MyString { get; set; }
 
+        public int MyInt { get; set; }      
     }
 }
